@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color my_dark_background
+color my_dark_primary
+color my_light_background
+color my_light_primary
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnFetch
+id tvLastId
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style AppTheme
+style Base.Theme.App
+xml backup_rules
+xml data_extraction_rules
